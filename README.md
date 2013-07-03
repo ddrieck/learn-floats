@@ -1,7 +1,7 @@
 Learn Floats
 ============
 
-**Learn to understand floating elements**
+**Understand floating elements**
 
 #What's the deal here?
 The goal of this exercise is to understand how to make different layouts using a single html file, and only changing how the elements float.  This is the basics of floating and is the best way I've found to understand what's going on.
