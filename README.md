@@ -11,5 +11,8 @@ The exercise uses 8 divs in a container, with no margins or padding. It will loo
 ##The Challenge
 The challenge for you is to produce the layouts I've sketched out changing only the`height`, `width`, `float`, and `clear` values for each element.
 
+###The Sketches:
+![The Sketches](Sketches.jpg "The Sketches")
+
 ##Try it out
 Clone this repo, open the files and look at styles.css to get started. The comments in there will guide you.
